@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD=KYNkCTCS#nm3BY_geWXwUROolo0GVBVrSDxKTZD65o8al3Pgfoxg",
             "required": true,
             "value": "put session id here"
         },
@@ -17,9 +17,9 @@
             "value": "button"
         },
     "OWNER_NUMBER": {
-            "description": "Put here your number without +",
+            "description": "923052492009 +",
             "required": true,
-            "value": "947xxxxxxxx"
+            "value": "92xxxxxxxx"
         },
     "POSTGRESQL_URL": {
             "description": "Put here postgresql url",
